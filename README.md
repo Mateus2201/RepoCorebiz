@@ -25,9 +25,7 @@ Certifique-se de ter os seguintes softwares instalados:
 
 ## Instale as dependências
 
-bash
-
-   npm install
+   ```npm install```
    
 ## Configure as variáveis de ambiente
 
